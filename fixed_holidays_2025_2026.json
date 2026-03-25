@@ -1,0 +1,65 @@
+{
+  "financial_year": "2025-2026",
+  "holidays": [
+    {
+      "id": 1,
+      "name": "Maharashtra / Labour Day",
+      "date": "2025-05-01",
+      "day": "Thursday"
+    },
+    {
+      "id": 2,
+      "name": "Independence Day",
+      "date": "2025-08-15",
+      "day": "Friday"
+    },
+    {
+      "id": 3,
+      "name": "Ganesh Chaturthi",
+      "date": "2025-08-27",
+      "day": "Wednesday"
+    },
+    {
+      "id": 4,
+      "name": "Mahatma Gandhi Jayanti",
+      "date": "2025-10-02",
+      "day": "Thursday"
+    },
+    {
+      "id": 5,
+      "name": "Deepawali – Narak Chaturdashi",
+      "date": "2025-10-20",
+      "day": "Monday"
+    },
+    {
+      "id": 6,
+      "name": "Deepawali – Laxmi Poojan",
+      "date": "2025-10-21",
+      "day": "Tuesday"
+    },
+    {
+      "id": 7,
+      "name": "Deepawali – Padwa",
+      "date": "2025-10-22",
+      "day": "Wednesday"
+    },
+    {
+      "id": 8,
+      "name": "Republic Day",
+      "date": "2026-01-26",
+      "day": "Monday"
+    },
+    {
+      "id": 9,
+      "name": "Holi",
+      "date": "2026-03-04",
+      "day": "Wednesday"
+    },
+    {
+      "id": 10,
+      "name": "Gudhi Padwa",
+      "date": "2026-03-19",
+      "day": "Thursday"
+    }
+  ]
+}
