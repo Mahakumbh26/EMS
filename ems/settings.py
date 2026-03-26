@@ -96,7 +96,6 @@ MIDDLEWARE = [
     "ems.middleware.CacheGetMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
-    "ems.middleware.PrometheusMiddleware",
 ]
 
 ROOT_URLCONF = "ems.urls"
